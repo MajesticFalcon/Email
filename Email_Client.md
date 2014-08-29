@@ -1,3 +1,4 @@
+```ruby
 require 'net/smtp'
 
 
@@ -69,3 +70,4 @@ MESSAGE
 		end
 	end
 end
+```
